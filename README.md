@@ -1,7 +1,7 @@
 # spanish-opencart-countries
 
-Código SQL para traducir los nombres de los países de Opencart (versión 2.0) al castellano.
+SQL code to translate the names of the Opencart countries (version 2.0) into Spanish.
 
-Básicamente elimina las rows en inglés y las inserta (manteniendo los ids) de nuevo con el campo "name" traducido al español.
+Basically it removes the English rows and inserts them (keeping the ids) again with the "name" field translated into Spanish.
 
-Útil para webs no multilingües.
+Useful for non-multilingual websites. 
